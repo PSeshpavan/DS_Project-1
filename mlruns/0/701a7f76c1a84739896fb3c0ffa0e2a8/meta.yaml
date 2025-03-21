@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PYTHON/AI-ML-DS/DS/End-to-End%20Project%20%231/mlruns/0/701a7f76c1a84739896fb3c0ffa0e2a8/artifacts
+end_time: 1742550148180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 701a7f76c1a84739896fb3c0ffa0e2a8
+run_name: melodic-frog-118
+run_uuid: 701a7f76c1a84739896fb3c0ffa0e2a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742550140981
+status: 3
+tags: []
+user_id: root
