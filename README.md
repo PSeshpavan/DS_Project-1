@@ -6,7 +6,8 @@
 
 # 2. Activate the virtual environment
 
-    conda activate venv/
+    Win cmd pmt: conda activate venv/
+    gitbash: source activate venv/
 
 # 3. create a requirements.txt and setup.py file in root folder
 

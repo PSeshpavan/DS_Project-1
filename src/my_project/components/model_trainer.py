@@ -36,7 +36,7 @@ os.environ["MLFLOW_TRACKING_PASSWORD"] = "f330018b6caa3e8f1b890d09fbc2097461a704
 
 @dataclass
 class ModelTrainerConfig:
-    trained_model_filepath = os.path.join("artifacts", "trained_model.pkl")
+    trained_model_filepath = os.path.join("artifacts", "model.pkl")
 
 
 class ModelTrainer:
